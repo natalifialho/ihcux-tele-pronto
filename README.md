@@ -48,3 +48,5 @@ Caminho mais curto possível para o atendimento:
 ## 📁 Estrutura do Repositório
 * `/prototipo`: Arquivos `prototipo.png` e `prototipo.pdf` exportados do Miro.
 * `README.md`: Documentação do projeto.
+
+<img width="1536" height="547" alt="1000264931" src="https://github.com/user-attachments/assets/32bfb65d-6462-4690-b303-563a9eb843eb" />
